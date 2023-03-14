@@ -29,6 +29,7 @@ public class Fact {
 	        System.out.println (num + " is Strong Number");
 	    else
 	        System.out.println (num + " is not a Strong Number");
+	        System.out.println (num + " is notttt a Strong Number");
 	  }
 
 	  }
