@@ -28,7 +28,7 @@ public class Fact {
 	    if (detectStrong(num))
 	        System.out.println (num + " is Strong Number");
 	    else
-	        System.out.println ("Made changes");
+	        System.out.println ("I love you");
 	       
 	  }
 
